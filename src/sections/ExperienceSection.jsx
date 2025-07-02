@@ -19,7 +19,7 @@ const experiences = [
 const projects = [
     {
         name: "Twiller (Twitter Clone - MERN Stack)",
-        github: "https://github.com/ankitku817/TwitterClone",
+        github: "https://github.com/ankitku817/Twiitter.git",
         description:
             "Twiller is a Twitter-like social media platform developed during my internship. It includes features like tweeting, liking, commenting, following users, and generating a personalized feed. I used React for the frontend, Node.js and Express for the backend, MongoDB for database, and Firebase Authentication for secure login. The UI is responsive and mobile-friendly.",
     },
